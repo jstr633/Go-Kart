@@ -8,7 +8,7 @@
 
 The go kart has a custom chassis that I designed in Inventor and welded myself using square hollow steel and flat plate steel for brake, throttle and brake mountings as well as high tensile rebar for the steering column. I also designed a chain tensioning engine mounting system which allows for effortless movement of the mounted engine to ensure optimal tension on the chain. Throttle and break linkages were also configured with the materials I had on hand, and the steering column steering system was fine tuned during testing. The 270cc water blaster engine provides plenty of power and the 40 series torque converter paired with the aggressive steering setup makes for a sharp and raw driving experience.
 
-![Alt text](images/IMG_0271.HEIC)
+![Alt text](./IMG_0271.HEIC)
 
 <h2>Future Upgrades</h2>
 
