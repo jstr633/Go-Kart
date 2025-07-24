@@ -10,6 +10,9 @@ The go kart has a custom chassis that I designed in Inventor and welded myself u
 
 <img src="https://github.com/user-attachments/assets/0d27d889-3b26-47bf-ae9b-97e576a13d11" alt="IMG_0271" width="300"/>
 
+<img src="https://github.com/user-attachments/assets/c65deb80-03d9-417c-8c83-35a311a46e98" alt="IMG_0271" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/9e9b3db2-9ebf-42ae-915b-3c07d12bee91" alt="IMG_0271" width="300"/>
 
 
 <h2>Future Upgrades</h2>
