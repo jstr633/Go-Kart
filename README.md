@@ -1,1 +1,14 @@
-###### Go-Kart
+<h1> Go Kart API</h1>
+
+<p>
+  <strong>A custom go kart that was built as a personal project to learn practical mechanical skills</strong>
+</p>
+
+<h2>Overview</h2>
+
+The go kart has a custom chassis that I designed in Inventor and welded myself using square hollow steel and flat plate steel for brake, throttle and brake mountings as well as high tensile rebar for the steering column. I also designed a chain tensioning engine mounting system which allows for effortless movement of the mounted engine to ensure optimal tension on the chain. Throttle and break linkages were also configured with the materials I had on hand, and the steering column steering system was fine tuned during testing. The 270cc water blaster engine provides plenty of power and the 40 series torque converter paired with the aggressive steering setup makes for a sharp and raw driving experience.
+
+<h2>Future Upgrades</h2>
+
+Headlight system for night driving that uses mechanical power from the rear axle to power small motorcycle headlights using an electromagnetic generator. 
+Pedal adaptors for shorter drivers.
