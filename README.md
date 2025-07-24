@@ -18,4 +18,5 @@ The go kart has a custom chassis that I designed in Inventor and welded myself u
 <h2>Future Upgrades</h2>
 
 Headlight system for night driving that uses mechanical power from the rear axle to power small motorcycle headlights using an electromagnetic generator. 
+
 Pedal adaptors for shorter drivers.
